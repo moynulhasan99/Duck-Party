@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Hans Party
 
 You can use the [editor on GitHub](https://github.com/moynulhasan99/Duck-Party/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
